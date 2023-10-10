@@ -1,0 +1,137 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.wrapper{
+    height:100vh;
+    overflow-x:auto;
+    overflow-y:auto;   
+}
+
+.container{    
+    display:flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction:column;
+}
+
+.header{
+    background-color: rgb(17, 4, 77);
+    width:100vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#name{
+    color:white;
+}
+
+.main1{
+    background-color: rgb(8, 2, 43);
+    height:100vh;
+    width:100vw;    
+}
+
+.m1{
+    transform:translate(100px,200px);
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    color:blueviolet;
+}
+
+#dp{
+    height:500px;
+    width:500px;
+    transform:translate(800px,-100px)
+}
+
+.main2{ 
+    background-color: rgb(8, 2, 43);
+    height:300vh;
+    width:100vw;
+}
+
+.m2{
+    color:white; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.txt{
+    padding-top: 70px;
+    padding-bottom: 200px;
+    padding-left: 15px;
+    padding-right:15px ;
+    color:white; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#img1{
+    height:300px;
+    width: 90%;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+
+#lab{
+    margin-top: 80px;
+}
+
+.label{
+    padding:200px;
+    color:white;
+}
+
+#img2{
+    height:500px;
+    width: 40%;
+    padding-left: 190px;
+}
+
+#img3{
+    padding-bottom: 80px;   
+    height:350px;
+    width: 20%;    
+}
+
+.label2{
+    padding-left:420px;
+    color:white;
+}
+
+.footer{
+    background-color:rgb(8, 2, 43);
+    height:100vh;
+    width:100vw;
+}
+
+#contact{
+    color:white;    
+}
+
+#img4{
+    height: 80px;
+    width: 110px;
+    padding-left: 260px;
+    padding-top: 200px;
+}
+
+#img5{
+    height: 100px;
+    width: 100px;
+    padding-left: 260px;
+    padding-top: 200px;    
+}
+
+#img6{
+    height: 100px;
+    width: 100px;
+    padding-left: 260px;
+    padding-top: 200px;
+}
+
+
